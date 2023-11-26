@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.Objects;
 
 public class MyDialog extends JDialog{
-    public static JSlider jSlider2;
+    public static JSlider jSlider2 ;
     public static JSlider jSlider;
     public static JTextField jTextField;
     public static JTextField jTextField2;
