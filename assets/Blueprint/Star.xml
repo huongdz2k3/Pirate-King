@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity name="Star">
+    <Normal>
+        <defaultSpeed x="3" y="0"/>
+    </Normal>
+    <Attack>
+        <rollSpeed x = "10"/>
+    </Attack>
+</Entity>

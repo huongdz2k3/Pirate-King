@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity name="Crab">
+    <defaultSpeed x="5"/>
+    <collisionBox width="64" height="32"/>
+    <Chasing>
+        <speedScale scale="2"/>
+    </Chasing>
+    <Attack>
+        <range range="64"/>
+        <attackBox reach="32" duration="2"/>
+    </Attack>
+</Entity>
